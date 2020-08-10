@@ -37,7 +37,7 @@ stops receiving traffic for a while.
 
 Simply create an account at https://id.heroku.com/login and then click this link:
 
-https://heroku.com/deploy?template=https://github.com/scribble-rs/scribble.rs/tree/master
+https://heroku.com/deploy?template=https://github.com/RolfDobbelaere/scribble.rs/tree/master
 
 ## Building / Running
 
